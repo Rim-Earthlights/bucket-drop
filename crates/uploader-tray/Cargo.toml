@@ -1,0 +1,7 @@
+[package]
+name = "uploader-tray"
+edition.workspace = true
+version.workspace = true
+
+[dependencies]
+uploader-core = { path = "../uploader-core" }

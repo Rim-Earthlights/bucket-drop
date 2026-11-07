@@ -1,0 +1,7 @@
+[package]
+name = "uploader-core"
+edition.workspace = true
+version.workspace = true
+
+[dependencies]
+notify-debouncer-full = "0.7.0"
